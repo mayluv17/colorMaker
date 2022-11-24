@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/colormaker/static/css/main.4e43624a.css",
+    "main.js": "/colormaker/static/js/main.c69fce9a.js",
+    "static/js/787.343582a3.chunk.js": "/colormaker/static/js/787.343582a3.chunk.js",
+    "static/media/logo-gray.svg": "/colormaker/static/media/logo-gray.5dc238f01fc397747135.svg",
+    "index.html": "/colormaker/index.html",
+    "main.4e43624a.css.map": "/colormaker/static/css/main.4e43624a.css.map",
+    "main.c69fce9a.js.map": "/colormaker/static/js/main.c69fce9a.js.map",
+    "787.343582a3.chunk.js.map": "/colormaker/static/js/787.343582a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e43624a.css",
+    "static/js/main.c69fce9a.js"
+  ]
+}
